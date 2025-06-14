@@ -1,0 +1,14 @@
+node-fetch
+express
+discord.js
+discord-tts
+discord-together
+discord-backup
+chalk
+discord-together
+discord-backup
+chalk
+beautify
+aoi.db
+@types/node
+@discordjs/voice
